@@ -1,0 +1,15 @@
+export const eras = [
+  { year: 1984, band: 'soundgarden', event: 'Soundgarden forms in Seattle', accent: '#D98A3D' },
+  { year: 1988, band: 'soundgarden', event: 'Ultramega OK — debut album', accent: '#D98A3D' },
+  { year: 1991, band: 'soundgarden', event: 'Badmotorfinger — Seattle\'s breakout year', accent: '#D98A3D' },
+  { year: 1994, band: 'soundgarden', event: 'Superunknown hits #1', accent: '#D98A3D' },
+  { year: 1997, band: 'soundgarden', event: 'Soundgarden disbands', accent: '#D98A3D' },
+  { year: 2001, band: 'audioslave', event: 'Audioslave forms', accent: '#3D5A73' },
+  { year: 2002, band: 'audioslave', event: 'Self-titled debut goes multi-platinum', accent: '#3D5A73' },
+  { year: 2005, band: 'audioslave', event: 'Out of Exile hits #1', accent: '#3D5A73' },
+  { year: 2006, band: 'audioslave', event: 'Revelations — final studio album', accent: '#3D5A73' },
+  { year: 2007, band: 'audioslave', event: 'Audioslave splits', accent: '#3D5A73' },
+  { year: 2010, band: 'soundgarden', event: 'Soundgarden reunites', accent: '#D98A3D' },
+  { year: 2012, band: 'soundgarden', event: 'King Animal released', accent: '#D98A3D' },
+  { year: 2017, band: 'soundgarden', event: 'Chris Cornell passes away', accent: '#D98A3D' },
+]

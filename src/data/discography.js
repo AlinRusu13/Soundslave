@@ -4,7 +4,7 @@ export const bands = [
     name: 'Soundgarden',
     formed: 1984,
     disbanded: '1997, 2010–2017',
-    accent: '#A8471F',
+accent: '#8C4A2F',
     albums: [
       { id: 'screaming-life', title: 'Screaming Life', year: 1987, spotifyId: '5wStnX0uKJRKlWX4rifrSb' },
       { id: 'ultramega-ok', title: 'Ultramega OK', year: 1988, spotifyId: '00LS6GJwb5ZPTKS8NMAT8x' },
@@ -20,7 +20,7 @@ export const bands = [
     name: 'Audioslave',
     formed: 2001,
     disbanded: '2007',
-    accent: '#5C5A3E',
+    accent: '#445265',
     albums: [
       { id: 'audioslave', title: 'Audioslave', year: 2002, spotifyId: '293aYSIVNjjmkAwupnlxRd' },
       { id: 'out-of-exile', title: 'Out of Exile', year: 2005, spotifyId: '0HQhToIjonHnJRRPN4jeJU' },
